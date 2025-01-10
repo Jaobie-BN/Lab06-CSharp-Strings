@@ -1,0 +1,15 @@
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.exe
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.deps.json
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.runtimeconfig.json
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.dll
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net9.0\Lab06_Exercise02.pdb
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.AssemblyInfoInputs.cache
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.AssemblyInfo.cs
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.csproj.CoreCompileInputs.cache
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.sourcelink.json
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.dll
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\refint\Lab06_Exercise02.dll
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.pdb
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\Lab06_Exercise02.genruntimeconfig.cache
+C:\FilesWork\OOP\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net9.0\ref\Lab06_Exercise02.dll
