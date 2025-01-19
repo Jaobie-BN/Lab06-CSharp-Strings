@@ -1,0 +1,18 @@
+﻿string str = "hello";
+string? nullStr = null;
+string emptyStr = string.Empty;
+string tempStr = str + nullStr;
+System.Console.WriteLine($"tempStr = {tempStr}");
+bool b = (emptyStr == nullStr);
+System.Console.WriteLine($"Check (emptyStr == nullStr) result is  {b}");
+string newStr = emptyStr + nullStr;
+System.Console.WriteLine($"emptyStr.Length = {emptyStr.Length}");
+System.Console.WriteLine($"newStr.Length = {newStr.Length}");
+System.Console.WriteLine($"newStr = {newStr}");
+System.Console.WriteLine($"nullStr.Length = {nullStr.Length}");
+string s1 = "\x0" + "abc";
+System.Console.WriteLine(@"s1 = ""\x0"" + ""abc""");
+System.Console.WriteLine($"s1 = *{s1}*, s1.Length = {s1.Length}");
+string s2 = "abc" + "\x0";
+System.Console.WriteLine(@"s2 = ""abc"" + ""\x0""");
+System.Console.WriteLine($"s2 = *{s2}*, s2.Length = {s2.Length}");
